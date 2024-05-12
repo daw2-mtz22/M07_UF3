@@ -1,0 +1,38 @@
+
+2024-05-12 09:36:12	DEBUG	Texto a registrar
+2024-05-12 09:36:12	DEBUG	Property FirstName is set as user1
+2024-05-12 09:36:12	DEBUG	Property LastName is set as lastNameUser1
+2024-05-12 09:36:12	DEBUG	Property EmailAddress is set as user1@test.com
+2024-05-12 09:36:12	DEBUG	Property DateAccountCreated is set as 2024-05-12
+2024-05-12 09:36:12	DEBUG	Property FirstName is set as user2
+2024-05-12 09:36:12	DEBUG	Property LastName is set as lastNameUser2
+2024-05-12 09:36:12	DEBUG	Property EmailAddress is set as user2@test.com
+2024-05-12 09:36:12	DEBUG	Property DateAccountCreated is set as 2024-05-12
+2024-05-12 09:36:12	DEBUG	Property FirstName is set as user3
+2024-05-12 09:36:12	DEBUG	Property LastName is set as lastNameUser3
+2024-05-12 09:36:12	DEBUG	Property EmailAddress is set as user3@test.com
+2024-05-12 09:36:12	DEBUG	Property DateAccountCreated is set as 2024-05-12
+2024-05-12 09:36:12	INFO	Creating new User with Id 8
+2024-05-12 09:36:12	INFO	Creating new User with Id 9
+2024-05-12 09:36:12	INFO	Creating new User with Id 10
+2024-05-12 09:36:12	INFO	Showing User Details
+2024-05-12 09:36:12	INFO	Showing User Details
+2024-05-12 09:36:12	INFO	Showing User Details
+2024-05-12 09:36:12	DEBUG	Property ErrorLogMessage doesnt exist
+2024-05-12 09:36:12	ERROR	Property ErrorLogMessage doesnt exist
+2024-05-12 09:36:12	DEBUG	Property Password is set as JAJAJAJA
+2024-05-12 09:36:12	DEBUG	Property Password is set as Password123
+2024-05-12 09:36:12	DEBUG	Property Password is set as 123456
+2024-05-12 09:36:12	INFO	Updating new User with Id 8
+2024-05-12 09:36:12	INFO	Updating new User with Id 9
+2024-05-12 09:36:12	INFO	Updating new User with Id 10
+2024-05-12 09:36:12	INFO	Found user with Id 8
+2024-05-12 09:36:12	INFO	Found user with Id 9
+2024-05-12 09:36:12	INFO	Found user with Id 10
+2024-05-12 09:36:12	INFO	Showing User Details
+2024-05-12 09:36:12	INFO	Showing User Details
+2024-05-12 09:36:12	INFO	Showing User Details
+2024-05-12 09:36:12	DEBUG	Marked user 8 for deletion
+2024-05-12 09:36:12	WARNING	This action cannot be reverted after unset is triggered
+2024-05-12 09:36:12	DEBUG	Marked user 9 for deletion
+2024-05-12 09:36:12	WARNING	This action cannot be reverted after unset is triggered
